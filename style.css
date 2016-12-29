@@ -5,7 +5,7 @@
 body {
   font-size: 140%;
   background-color: #CCC;
-  background-image: url(http://wallpapercave.com/wp/K0Ga2HM.jpg);
+  background-image: url();
   color: #111; 
   padding-top: 0;
 }
@@ -24,7 +24,7 @@ body {
   padding: 0 0 0 0;
   overflow: hidden;
   list-style-type: none;
-  background-color: #123;
+  background-color: white;
   width: 100%;
 }
 
@@ -45,17 +45,6 @@ p {
   margin: 0;
   padding: 2%;
   font-size: 120%;
-}
-
-#profileImg {
-  margin: 0 auto;
-}
-
-.thin-gray-border {
-  border-color: gray;
-  border-width: 1px;
-  border-style: solid;
-  border-radius: 50%;  
 }
 
 #section1a { 
@@ -85,8 +74,9 @@ p {
 }
 
 #share-buttons img {
-padding: 5%;
-border: 0;
-box-shadow: 0;
-display: inline;
+  padding: 5%;
+  border: 0;
+  box-shadow: 0;
+  display: inline;
+  color: #008;
 }
